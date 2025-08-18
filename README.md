@@ -32,11 +32,7 @@
 *Other:* Data Structures & Algorithms, OOP, Operating Systems  
 
 ---
-
-## 📊 GitHub Stats  
-![Devanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devanshukohalekar&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshukohalekar&layout=compact&theme=radical)  
+  
 
 ---
 
